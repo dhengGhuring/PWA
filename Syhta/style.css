@@ -1,0 +1,12 @@
+header {
+  background-color: rgb(41, 41, 41);
+  color: #fff;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+header p {
+  color: gray;
+}
+main h1 {
+  font-size: 1.5em;
+}
