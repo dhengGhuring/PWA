@@ -1,5 +1,5 @@
 var CACHE_NAME = 'Syhta-cache-v1';
-var urlsToCache = ['/', 'index.html', 'login.html'];
+var urlsToCache = ['index.html', 'login.html', 'cart.html'];
 
 self.addEventListener('install', function (event) {
   // Perform install steps
