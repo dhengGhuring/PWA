@@ -11,6 +11,9 @@ header {
 header p {
   color: gray;
 }
+main {
+  overflow: hidden;
+}
 main h1 {
   font-size: 1.5em;
 }
